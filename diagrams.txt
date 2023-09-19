@@ -1,0 +1,35 @@
+mindmap
+  root((Transfer 
+  Learning))
+    Known Application Domain <br/> Same Task
+        Transductive TL
+            Source and Target Annotations
+                Sample Selection Bias Covariance Shift
+            Source Annotations
+                Domain Adaptation
+    Unknown Application Domain <br/> Same or Different Task
+        Inductive TL
+            Source and Target Annotations
+                Multitask Learning
+            Target Annotations
+                Self supervised Learning
+    %% No Annotations
+    %%     Unsupervised Learning
+
+
+    ===============================
+
+
+    timeline
+    title ML Projects
+    You : Expertise
+        : Existing models & services
+        : Finite resources
+    Client : Specific application field
+           : Data
+           : No Annotations
+    R&D - Pilot : Apply existing services directly?
+                : Annotate data and train new models?
+                : ...
+                : Use ChatGPT?
+    Deliver solution : $$$
